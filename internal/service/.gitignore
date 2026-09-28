@@ -1,0 +1,20 @@
+# Binarios compilados de Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+main
+bin/
+
+# Variables de entorno y credenciales
+.env
+*.env
+
+# Carpetas de editores/IDEs
+.vscode/
+.idea/
+
+# Datos persistentes de bases de datos/Docker
+mysql_data/
+*.db
